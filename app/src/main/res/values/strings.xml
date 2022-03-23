@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic-Tac</string>
+    <string name="dashes">---</string>
+    <string name="player1">Player 1\'s move</string>
+    <string name="player2">Player 2\'s move</string>
+    <string name="winner">Match won by player </string>
+    <string name="boardFull">Match ended because board is full!!</string>
+    <string name="restart_message">Would you like to play the game again? y/n</string>
+</resources>
